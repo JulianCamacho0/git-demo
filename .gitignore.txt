@@ -1,0 +1,8 @@
+# Ignorar archivos de logs
+*.log
+
+# Ignorar carpeta de compilación
+/build/
+
+# Ignorar entorno virtual
+venv/
