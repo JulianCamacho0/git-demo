@@ -1,14 +1,9 @@
-esta es una rama paralela a la original son unos cambios radicales
-como por ejemplo, eliminare todo y hare el cambio.
+Esta es la nueva Cancion:
 
-hola
-primera linea
-segunda linea
-tercera linea
-
-blablabal
-
-cambio de estrategai 
-
-estamos probando la funcionalidad del branch
-entonces esto estará en un nuevo branch 
+Estoy enamorado de 4 babi
+siempre
+me 
+dan lo 
+aque 
+bla 
+bla bla
