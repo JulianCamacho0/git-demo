@@ -11,5 +11,3 @@ estamos probando la funcionalidad del branch
 entonces esto estará en un nuevo branch 
 
 nueva
-
-Esto se esta editando en el nuevo branch
