@@ -3,8 +3,7 @@ como por ejemplo, eliminare todo y hare el cambio.
 
 hola
 primera linea
-segunda linea
-tercera linea
+
 
 
 estamos probando la funcionalidad del branch
